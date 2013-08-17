@@ -1,0 +1,5 @@
+1. First 4 bytes are 0x00
+2. Then 4 bytes for File Name length
+3. Then 4 bytes for File Length
+4. Then (File Name length) bytes string
+5. Then (File Length) bytes file data
